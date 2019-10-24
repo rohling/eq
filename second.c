@@ -12,6 +12,6 @@ int main()
 
     result = nu1/nu2;
     resto = nu1%nu2;
-    printf(result, resto);
+    printf("%i", result);
     return 1;
 }
